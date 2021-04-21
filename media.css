@@ -1,0 +1,17 @@
+@media screen and (max-width: 1024px) {
+    .foto {
+        width: 60%;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .foto {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    ul.topnav li {
+        float:none;
+    }
+}
